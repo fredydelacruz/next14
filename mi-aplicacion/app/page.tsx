@@ -14,7 +14,7 @@ export default function Home() {
     <div>
       <main className="flex flex-col items-center text-white">
         <div className="mb-2">
-          <h1>Lista de Manuales</h1>
+          <h1>Manuales</h1>
         </div>
         <div className="border border-white rounded p-2">
           <ul>
